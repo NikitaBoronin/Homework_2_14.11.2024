@@ -219,6 +219,7 @@ namespace Homework_from_file_Boronin_09_421
             int bottlesNeeded = (int)Math.Floor(number_of_bottles_needed);
 
             Console.WriteLine($"Чтобы возместить отпуск потребуется {bottlesNeeded} бутылок.");
+
             // 6 Задание
             Console.WriteLine("\n 6 Задание\n");
             Drink beer = new Drink("Beer", 0.1);   // Пиво, 10% алкоголя
