@@ -58,6 +58,7 @@ namespace Tumakov_laba_Boronin_09_421
         static void Main(string[] args)
         {
             Console.WriteLine("\nУпражнение 3.1\n");
+
             Account_bank bank_account_current = Account_bank.current;
             Account_bank bank_account_savings = Account_bank.savings;
 
